@@ -1,0 +1,9 @@
+$body-bg: #00aef0;
+$body-color: #212121;
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+.custom-element {
+    color: $gray-100;
+    background-color: $dark;
+}
